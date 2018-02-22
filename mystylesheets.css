@@ -1,0 +1,45 @@
+*{
+  margin:0;
+  
+}
+
+html,body{
+  background-image: url("http://www.pptbackgrounds.org/uploads/the-beauty-of-sunset-backgrounds-wallpapers.jpg")  ;
+  background-size: cover;
+  width:100%;
+}
+
+.mainheading{
+  text-align:center;
+  color:Navy;
+}
+
+ul li a {
+  text-decoration:none;
+  color:black;
+}
+  
+  ul{
+    height:22%;
+    Width:100%;
+    background:#97d6f7;
+    text-align: center;
+    
+  }
+
+ul li{
+  list-style: none;
+  display: inline;
+position: relative;  
+margin-left:130px;
+transform:translate(20%,30%);
+font-size:22px;
+
+
+}
+
+ul li a:hover{
+  color:pink;
+  background:Blue;
+  padding:3%;
+}
